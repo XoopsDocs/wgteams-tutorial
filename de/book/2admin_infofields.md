@@ -9,4 +9,5 @@ Auf den Registerblatt 'Infofelder' sehen Sie eine Auflistung aller bereits exist
 
 #### 2.1.2 Infofelder hinzufügen/bearbeiten
 ![](../assets/2admin_infofields_add.png)
+
 Es ist nur der Infofeldname erforderlich. Dieser kann auf der Userseite auch angezeigt werden.

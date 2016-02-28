@@ -9,11 +9,11 @@ Auf den Registerblatt 'Beziehungen' sehen Sie eine Auflistung aller bereits fest
 #### 2.4.2 Beziehungen hinzufügen/bearbeiten
 ![](../assets/2admin_relations_add.png)
 
-**Teams und Mitlglieder**
+#### Teams und Mitlglieder
 Legen Sie die Teams und Personen fest, die verknüpft werden sollen.
 
-**Infofelder**
+#### Infofelder
 Zusätzlich können Sie fünf Infofelder verwenden, welche dann auf der Userseite für diese Beziehung angezeigt werden.
 
-**Reihung**
+#### Reihung
 Legen Sie die Reihung der Mitglieder auf der Userseite fest.

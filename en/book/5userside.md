@@ -7,7 +7,7 @@ Depending on your settings/preferences you can present your teams in various way
 #### 5.1 Possibilities for presentation
 You can show your team(s) 
 * via the index page 
-* or with a block (see also see [Blocks](6blocks.md))
+* or with a block (see also [Blocks](6blocks.md))
 
 #### 5.2 Possible presentation styles
 **Example 1**

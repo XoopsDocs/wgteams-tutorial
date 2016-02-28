@@ -8,6 +8,7 @@ Detailed instructions on installing modules are available in the [XOOPS Operatio
 - Log in as admin and goto admin area
 - Install the module through Admin -> Modules -> Install Modules
 ![](../assets/1install.png)
+
 *Figure 2 Module administration and install*
 - configure the module
 - the next steps are setting the rights under System --> Groups.
@@ -15,4 +16,5 @@ Detailed instructions on installing modules are available in the [XOOPS Operatio
 #### 1.2 Uninstall
 To uninstall the module, just click on the red arrow
 ![](../assets/1uninstall.png)
+
 *Figure 3 The Module Administration and un-install*

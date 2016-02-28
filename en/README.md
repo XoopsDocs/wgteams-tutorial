@@ -1,6 +1,11 @@
+### _XOOPS Documentation Series_
+![logoXoops.jpg](assets/logoXoops.jpg)
+
+# Module wgTeams
+#### Version: 1.06
 #### for XOOPS 2.5.7
-      
-![logoModule.png](en/assets/logoModule.png)
+
+![logoModule.png](assets/logoModule.png)
             
 ## User Manual
 
@@ -8,30 +13,28 @@
 
 ## Module Purpose 
 
-This module is for presentation of your team(s).
+wgTeams is a simple module for presentation of your team(s).
 
 You can defined various teams and people. After that you can link each person to one or more teams.
-The default information of a person will be used for all teams.
+The default information of a person (e.g. email address) will be used for all teams.
 You can define additional information fields, which will be used for a team/member combination, e.g. skills for this team, postion in the team, and so on.
 
 All used templates on user side are fully responsive.
+>![](../assets/info/important.png) **Pay attention:** This module works only in combination with a bootstrap theme or you have to include bootstrap files manually to your theme.
 
-**This module works only in combination with a bootstrap theme or you have to include bootstrap files manually to your theme.**
-
-![0dashboard1.png](en/assets/0dashboard.png)<br/>
+![0dashboard.png](assets/0dashboard.png)<br/>
 *Figure 1: Main view of the wgTeams Module (Admin side)*
 
 # Table of Content
 
-* [Install/Uninstall](en/book/1install.md)
-* [Administration Menu](en/book/2administration.md)
-* [Preferences](en/book/3preferences.md)
-* [Operating Instructions](en/book/4operations.md)
-* [The User Side](en/book/5userside.md)
-* [Blocks](en/book/6blocks.md)
-* [Templates](en/book/7templates.md)
-* [Module Credits](en/book/9credits.md)
-* 
+* [Install/Uninstall](book/1install.md)
+* [Administration Menu](book/2administration.md)
+* [Preferences](book/3preferences.md)
+* [Operating Instructions](book/4operations.md)
+* [The User Side](book/5userside.md)
+* [Blocks](book/6blocks.md)
+* [Templates](book/7templates.md)
+* [Module Credits](book/9credits.md)
 
 ##License:
 

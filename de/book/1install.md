@@ -7,12 +7,12 @@ Wenn Sie zustätzliche Informationen benötigen, lesen Sie die Installationshinw
 - Extrahieren Sie den Ordner 'wgteams' in das Module-Verzeichnis
 - Loggen sie sich als Administrator und wechseln sie zur Xoops Administrationseite
 - Installieren Sie das Modul über Administration -> Module -> Module installieren
-![](../assets/1install.png)
+![](../assets/1install.png)<br/>
 *Abbildung 2 Die Moduladministration und Installation*
 - Konfigurieren sie das Modul 
 - Die nächsten Schritte sind nun die Rechteverwaltung des Modules und der Blöcke in System --> Gruppen.
 
 #### 1.2 Deinstallation
 Zur Deinstallation klicken sie einfach auf den roten Pfeil
-![](../assets/1uninstall.png)
+![](../assets/1uninstall.png)<br/>
 *Abbildung 3 Deinstallation in der Moduladministration*

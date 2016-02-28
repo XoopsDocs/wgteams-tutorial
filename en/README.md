@@ -22,7 +22,7 @@ You can define additional information fields, which will be used for a team/memb
 All used templates on user side are fully responsive.
 >![](../assets/info/important.png) **Pay attention:** This module works only in combination with a bootstrap theme or you have to include bootstrap files manually to your theme.
 
-![0dashboard1.png](assets/0dashboard1.png)
+![0dashboard.png](assets/0dashboard.png)
 *Figure 1: Main view of the wgTeams Module (Admin side)*
 
 # Table of Content

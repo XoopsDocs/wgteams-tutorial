@@ -11,14 +11,12 @@ Die Anzeige ihrer Teams ist
 möglich.
 
 #### 5.2 Mögliche Präsentationstyles
-**Beispiel 1**
-Bild auf der linken Seite, Informationsbereich mit Rahmen, Mitgliedsbild mit abgerundeten Ecken
+
+**Beispiel 1:** Bild auf der linken Seite, Informationsbereich mit Rahmen, Mitgliedsbild mit abgerundeten Ecken
 ![](../assets/5userside_1.png)
 
-**Beispiel 2**
-Bild oben, Informationsbereich gestreift, Mitgliedsbild im Kreisstil
+**Beispiel 2:** Bild oben, Informationsbereich gestreift, Mitgliedsbild im Kreisstil
 ![](../assets/5userside_2.png)
 
-**Beispiel 3**
-Bild auf der rechten Seite, Informationsbereich liniert, Mitgliedsbild im Thumbs-Stil
+**Beispiel 3:** Bild auf der rechten Seite, Informationsbereich liniert, Mitgliedsbild im Thumbs-Stil
 ![](../assets/5userside_3.png)

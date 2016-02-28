@@ -21,7 +21,7 @@ Zusätlich können weitere Felder erstellt werden, die dann bei bestimmten Kombi
 Alle Templates sind voll responsive.
 >![](../assets/info/important.png) **Achtung:** Dieses Modul arbeitet nur in Kombination mit einem Bootstrap-Theme, oder sie müssen die Bootstrap-Dateien manuell in ihrem Theme einbinden.
 
-![0dashboard.png](assets/0dashboard.png)
+![0dashboard.png](assets/0dashboard.png)<br/>
 *Figure 1: Hauptübersicht des Moduls wgTeams (Admin-Bereich)*
 
 # Inhaltsverzeichnis

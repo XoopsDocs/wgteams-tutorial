@@ -14,5 +14,6 @@ Besides the name you can define following default information for each person:
 * Address
 * Phone
 * Email
+
 This information will be used in each team.
 Additionally you can upload one picture for each person.

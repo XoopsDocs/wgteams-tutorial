@@ -14,5 +14,6 @@ Neben dem Namen können Sie für jede Person folgende Standardinformationen erfa
 * Adresse
 * Telefon
 * E-Mail
+
 Diese Informationen werden für jedes Team verwendet.
 Zusätzlich können Sie für jede Person auch noch ein Bild hochladen.

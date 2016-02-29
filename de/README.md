@@ -19,7 +19,7 @@ Sie können verschiedene Teams und Personen definieren. Danach können Sie die P
 Zusätlich können weitere Felder erstellt werden, die dann bei bestimmten Kombinationen Team/Mitglieder verwendet werden, wie z.B. Aufgaben innerhalb des Teams, Position im Team, usw.
 
 Alle Templates sind voll responsive.
->![](../assets/info/important.png) **Achtung:** Dieses Modul arbeitet nur in Kombination mit einem Bootstrap-Theme, oder sie müssen die Bootstrap-Dateien manuell in ihrem Theme einbinden.
+>![](./assets/info/important.png) **Achtung:** Dieses Modul arbeitet nur in Kombination mit einem Bootstrap-Theme, oder sie müssen die Bootstrap-Dateien manuell in ihrem Theme einbinden.
 
 ![0dashboard.png](assets/0dashboard.png)<br/>
 *Figure 1: Hauptübersicht des Moduls wgTeams (Admin-Bereich)*

@@ -17,7 +17,7 @@ wgTeams is a simple module for presentation of your team(s).
 
 You can defined various teams and people. After that you can link each person to one or more teams.
 The default information of a person (e.g. email address) will be used for all teams.
-You can define additional information fields, which will be used for a team/member combination, e.g. skills for this team, postion in the team, and so on.
+You can define additional information fields, which will be used for a team/member combination, e.g. skills for this team, position in the team, and so on.
 
 All used templates on user side are fully responsive.
 >![](./assets/info/important.png) **Pay attention:** This module works only in combination with a bootstrap theme or you have to include bootstrap files manually to your theme.

@@ -1,4 +1,4 @@
-#### for XOOPS 2.5.7
+#### for XOOPS 2.5.7/ XOOPS 2.5.8
       
 ![logoModule.png](en/assets/logoModule.png)
             

@@ -2,8 +2,8 @@
 ![logoXoops.jpg](assets/logoXoops.jpg)
 
 # Module wgTeams
-#### Version: 1.06
-#### for XOOPS 2.5.7
+#### Version: 1.07 RC3
+#### for XOOPS 2.5.7 and XOOPS 2.5.8
 
 ![logoModule.png](assets/logoModule.png)
             

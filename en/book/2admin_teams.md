@@ -6,6 +6,8 @@ You can define various teams, which you can later combine with one or more membe
 On the dashboard tab 'teams' you see a list of the existing teams with the settings.
 ![](../assets/2admin_teams_list.png)
 
+If you use a list of several teams on user side, you can change ranking by drag & drop.
+
 #### 2.2.2 Add new team
 ![](../assets/2admin_teams_add.png)
 
@@ -43,9 +45,6 @@ Following options are available:
 * Left (on the left side)
 * Default (on the top)
 * Right (on the right side)
-
-#### Weight
-You can define the ranking of the teams on user side, if you use a team list there.
 
 #### Online
 Define, whether a team should be shown on user side or not.

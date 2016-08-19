@@ -6,6 +6,8 @@ If you have created teams and put in members and additional infofields, you can 
 On the dashboard tab 'relations' you see a list of the existing relations with the settings.
 ![](../assets/2admin_relations_list.png)
 
+The ranking of the relations on user side can be changed by drag & drop.
+
 #### 2.4.2 Add/edit relations
 ![](../assets/2admin_relations_add.png)
 

@@ -6,8 +6,11 @@ Sie können beliebig viele Teams erstellen, welche Sie dann mit einem oder mehre
 Auf den Registerblatt 'Teams' sehen Sie eine Auflistung aller bereits erfassten Teams mit den jeweiligen Einstellungen.
 ![](../assets/2admin_teams_list.png)
 
+Sofern auf der Userseite eine Liste mit mehreren Teams verwendet wird, kann die Reihung kann mit Drag&Drop geändert werden.
+
 #### 2.2.2 Teams hinzufügen/bearbeiten
 ![](../assets/2admin_teams_add.png)
+
 #### Teamname
 Bitte definieren Sie einen Teamnamen. Dieser Name wird auf der Userseite angezeigt.
 
@@ -42,9 +45,6 @@ Folgende Optione sind verfügbar:
 * Links (auf der linken Seite des Textes)
 * Standard (oberhalb des Textes)
 * Rechts (auf der rechten Seite)
-
-#### Reihung
-Definieren Sie die Reihung der Teams auf der Userseite, sofern dort eine Teamliste verwendet wird.
 
 #### Online
 Legen Sie fest, ob ein Team auf der Userseite angezeigt werden soll.

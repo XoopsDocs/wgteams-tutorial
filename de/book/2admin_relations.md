@@ -6,6 +6,8 @@ Wenn Sie Teams erstellt und Mitglieder sowie eventuell Infofelder erfasst haben,
 Auf den Registerblatt 'Beziehungen' sehen Sie eine Auflistung aller bereits festgelegten Beziehungen.
 ![](../assets/2admin_relations_list.png)
 
+Die Reihenfolge für die Anzeige der Beziehungen auf der Userseite kann mit Drag & Drop geändert werden.
+
 #### 2.4.2 Beziehungen hinzufügen/bearbeiten
 ![](../assets/2admin_relations_add.png)
 
@@ -14,6 +16,3 @@ Legen Sie die Teams und Personen fest, die verknüpft werden sollen.
 
 #### Infofelder
 Zusätzlich können Sie fünf Infofelder verwenden, welche dann auf der Userseite für diese Beziehung angezeigt werden.
-
-#### Reihung
-Legen Sie die Reihung der Mitglieder auf der Userseite fest.

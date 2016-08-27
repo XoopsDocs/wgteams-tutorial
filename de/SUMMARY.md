@@ -10,6 +10,7 @@
    * [Über](book/2admin_about.md)
    * [Hilfe](book/2admin_help.md)
 * [Einstellungen](book/3preferences.md)
+* [Operative Anweisungen](book/4operations.md)
 * [Benutzerbereich](book/5userside.md)
 * [Blöcke](book/6blocks.md)
 * [Templates](book/7templates.md)

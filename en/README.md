@@ -3,7 +3,8 @@
 
 # Module wgTeams
 #### Version: 1.08 RC1
-#### for XOOPS 2.5.7 and XOOPS 2.5.8
+#### for XOOPS 2.5.7
+#### for PHP 5.5, 5.6 and 7.0
 
 ![logoModule.png](assets/logoModule.png)
             
@@ -41,3 +42,5 @@ All used templates on user side are fully responsive.
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 All derivative works are to be attributed to XOOPS Project (www.xoops.org)
+
+##Tutorial Version: 1.1

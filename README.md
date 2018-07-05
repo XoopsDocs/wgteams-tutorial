@@ -1,40 +1,41 @@
-#### for XOOPS 2.5.7/ XOOPS 2.5.8
-      
-![logoModule.png](en/assets/logoModule.png)
-            
-## User Manual
+# Introduction
 
-© 2014 The XOOPS Project (www.xoops.org)    
+![logoModule.png](.gitbook/assets/logomodule.png)
 
-## Module Purpose 
+### User Manual
 
-This module is for presentation of your team(s).
+© 2014 The XOOPS Project \(www.xoops.org\)
 
-You can defined various teams and people. After that you can link each person to one or more teams.
-The default information of a person will be used for all teams.
-You can define additional information fields, which will be used for a team/member combination, e.g. skills for this team, postion in the team, and so on.
+### Module Purpose
+
+This module is for presentation of your team\(s\).
+
+You can defined various teams and people. After that you can link each person to one or more teams. The default information of a person will be used for all teams. You can define additional information fields, which will be used for a team/member combination, e.g. skills for this team, postion in the team, and so on.
 
 All used templates on user side are fully responsive.
 
 **This module works only in combination with a bootstrap theme or you have to include bootstrap files manually to your theme.**
 
-![0dashboard1.png](en/assets/0dashboard.png)<br/>
-*Figure 1: Main view of the wgTeams Module (Admin side)*
+  
+ _Figure 1: Main view of the wgTeams Module \(Admin side\)_
 
-# Table of Content
+![0dashboard1.png](.gitbook/assets/0dashboard.png)
 
-* [Install/Uninstall](en/book/1install.md)
-* [Administration Menu](en/book/2administration.md)
-* [Preferences](en/book/3preferences.md)
-* [Operating Instructions](en/book/4operations.md)
-* [The User Side](en/book/5userside.md)
-* [Blocks](en/book/6blocks.md)
-* [Templates](en/book/7templates.md)
-* [Module Credits](en/book/9credits.md)
+## Table of Content
+
+* [Install/Uninstall](install-uninstall.md)
+* [Administration Menu](administration-menu/)
+* [Preferences](https://github.com/xoops/wgteams-tutorial/tree/938384495c0c1e654d0971956486991fffaf5013/en/book/3preferences.md)
+* [Operating Instructions](operating-instructions.md)
+* [The User Side](the-user-side.md)
+* [Blocks](blocks.md)
+* [Templates](templates.md)
+* [Module Credits](module-credits.md)
 * 
+### License:
 
-##License:
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
+Unless specified, this content is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+All derivative works are to be attributed to XOOPS Project \(www.xoops.org\)
 
-All derivative works are to be attributed to XOOPS Project (www.xoops.org)

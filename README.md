@@ -19,19 +19,8 @@ All used templates on user side are fully responsive.
   
  _Figure 1: Main view of the wgTeams Module \(Admin side\)_
 
-![0dashboard1.png](.gitbook/assets/0dashboard%20%281%29.png)
+![0dashboard1.png](.gitbook/assets/0dashboard.png)
 
-## Table of Content
-
-* [Install/Uninstall](install-uninstall.md)
-* [Administration Menu](administration-menu/)
-* [Preferences](https://github.com/xoops/wgteams-tutorial/tree/938384495c0c1e654d0971956486991fffaf5013/en/book/3preferences.md)
-* [Operating Instructions](operating-instructions.md)
-* [The User Side](the-user-side.md)
-* [Blocks](blocks.md)
-* [Templates](templates.md)
-* [Module Credits](module-credits.md)
-* 
 ### License:
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  

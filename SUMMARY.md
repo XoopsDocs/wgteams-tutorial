@@ -1,6 +1,6 @@
 # Table of contents
 	
-* [ENGLISH](english/README.md)
+* [ENGLISH](README.md)
 	* [Introduction](README.md)
 	* [Install/Uninstall](install-uninstall.md)
 	* [Administration Menu](administration-menu/README.md)

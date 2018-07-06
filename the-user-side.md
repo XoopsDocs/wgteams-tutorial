@@ -13,15 +13,15 @@ You can show your team\(s\)
 
 ## 5.2 Possible presentation styles
 
-**Example 1:** Picture on the left side, information area with borders, picture with round corners 
+**Example 1:** Picture on the left side, information area with borders, picture with round corners
 
 ![](.gitbook/assets/5userside_1.png)
 
-**Example 2:** Picture on the top, information area striped, picture shaped as circle 
+**Example 2:** Picture on the top, information area striped, picture shaped as circle
 
 ![](.gitbook/assets/5userside_2.png)
 
-**Example 3:** Picture on the right side, information area lined, picture in thumbs style 
+**Example 3:** Picture on the right side, information area lined, picture in thumbs style
 
 ![](.gitbook/assets/5userside_3.png)
 

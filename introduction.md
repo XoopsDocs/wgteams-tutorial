@@ -2,11 +2,11 @@
 
 ![logoModule.png](.gitbook/assets/logomodule.png)
 
-### User Manual
+## User Manual
 
 © 2014 The XOOPS Project \(www.xoops.org\)
 
-### Module Purpose
+## Module Purpose
 
 This module is for presentation of your team\(s\).
 

@@ -8,7 +8,7 @@ No special measures necessary, follow the standard installation process – extr
 * Log in as admin and goto admin area
 * Install the module through Admin -&gt; Modules -&gt; Install Modules
 
-  ![](.gitbook/assets/1install.png)
+  ![](.gitbook/assets/1install%20%281%29.png)
 
   _Figure 2 Module administration and install_
 

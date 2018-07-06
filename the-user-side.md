@@ -15,11 +15,11 @@ You can show your team\(s\)
 
 **Example 1:** Picture on the left side, information area with borders, picture with round corners 
 
-![](.gitbook/assets/5userside_1.png)
+![](.gitbook/assets/5userside_1%20%281%29.png)
 
 **Example 2:** Picture on the top, information area striped, picture shaped as circle 
 
-![](.gitbook/assets/5userside_2.png)
+![](.gitbook/assets/5userside_2%20%281%29.png)
 
 **Example 3:** Picture on the right side, information area lined, picture in thumbs style 
 

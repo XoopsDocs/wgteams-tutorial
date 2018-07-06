@@ -1,5 +1,6 @@
 # Table of contents
 
+* [Introduction](README.md)
 * [ENGLISH](README.md)
 	* [Introduction](introduction.md)
 	* [Install/Uninstall](install-uninstall.md)

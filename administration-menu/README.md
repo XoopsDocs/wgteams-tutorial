@@ -2,8 +2,6 @@
 
 ## 2.0.1 Menu
 
-test
-
 There are seven \(7\) menu options on top. These can be seen in the graphic below above the Module’s Administration tabs. The menu options available are described in the table below.
 
 | Option | Action |

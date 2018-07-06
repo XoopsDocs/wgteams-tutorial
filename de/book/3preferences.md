@@ -23,6 +23,16 @@ Es gibt folgende Optionen:
 
 #### Editor
 Bitte wählen Sie den Editor für die Eingabefelder im Adminbereich.
+Xoops bietet standardmäßig 3 Editoren an:
+###### 1) nur Text
+Dieser Editor dient zum Abspeichern von reinem Text
+###### 2) DHTML mit xCode
+Ein Editor mit verschiedenen Xoops-Tags
+###### 3) TinyMCE
+Umfangreicher Texteditor mit zahlreichen Optionen für Formatierungen, Listen, usw.
+Der Text wird in der Datenbank als HTML-Code abgespeichert.
+
+Achtung: wenn Sie einen Text, der mit TinyMCE erstellt wurde, später mit z.B. DHTML-Editor anzeigen, so erscheinen natürlich alle Html-Tags. Verwenden Sie in diesem Fall wieder den TinyMCE oder entfernen Sie alle HTML-Tags.
 
 #### Maximale Größe
 Definieren Sie bitte die maximale Größe für einen Dateiupload. Sie müssen den Wert für Bytes angegeben (10485760 = 1 MB).

@@ -1,5 +1,4 @@
 # Table of contents
-
 * [Introduction](README.md)
 * [ENGLISH](README.md)
 	* [Introduction](introduction.md)
@@ -18,7 +17,6 @@
 	* [Templates](templates.md)
 	* [Module Credits](module-credits.md)
 	* [About XOOPS CMS](about-xoops-cms.md)
-
 * [DEUTSCH](deutsch/README.md)
 	* [Inhaltsverzeichnis](deutsch/inhaltsverzeichnis.md)
 	* [Einleitung](deutsch/einleitung.md)
@@ -37,4 +35,3 @@
 	* [Templates](deutsch/templates.md)
 	* [Modul Credits](deutsch/modul-credits.md)
 	* [About XOOPS CMS](deutsch/about-xoops-cms.md)
-

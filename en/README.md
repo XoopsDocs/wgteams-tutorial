@@ -21,9 +21,9 @@ The default information of a person (e.g. email address) will be used for all te
 You can define additional information fields, which will be used for a team/member combination, e.g. skills for this team, position in the team, and so on.
 
 All used templates on user side are fully responsive.
->![](./assets/info/important.png) **Pay attention:** This module works only in combination with a bootstrap theme or you have to include bootstrap files manually to your theme.
+>![](.gitbook/assets/important.png) **Pay attention:** This module works only in combination with a bootstrap theme or you have to include bootstrap files manually to your theme.
 
-![0dashboard.png](assets/0dashboard.png)<br/>
+![0dashboard.png](.gitbook/assets/0dashboard.png)<br/>
 *Figure 1: Main view of the wgTeams Module (Admin side)*
 
 # Table of Content
